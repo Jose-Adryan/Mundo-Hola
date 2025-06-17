@@ -1,1 +1,1 @@
-git clone <https://github.com/midudev/curso-python.git
+git clone https://github.com/midudev/curso-python.git
